@@ -1,0 +1,26 @@
+.menu{
+  display: flex;
+  list-style: none;
+}
+
+.menu li{
+  margin-right: 20px;
+}
+
+.jeugd{
+  display: flex;
+  list-style: none;
+}
+
+.jeugd li{
+margin-right: 20px;
+}
+
+.kinderen{
+display: flex;
+list-style: none;
+}
+
+.kinderen li{
+margin-right: 20px;
+}
